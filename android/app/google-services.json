@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647059464688",
+    "project_id": "meetings-app-3796d",
+    "storage_bucket": "meetings-app-3796d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647059464688:android:c9c10e91bcf2b05803bd35",
+        "android_client_info": {
+          "package_name": "com.example.meetings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647059464688-2o5eg1ug885k4qt66lu720hd1sjp78d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetings",
+            "certificate_hash": "582644e6173bcda45968a9026f6caadeabd662d2"
+          }
+        },
+        {
+          "client_id": "647059464688-ktoo5fd1n5q2cq2mrack4kfk6k61u4iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3WgOgDQjwytBKHc41wS_dXWIfTZTjmqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647059464688-ktoo5fd1n5q2cq2mrack4kfk6k61u4iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
