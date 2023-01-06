@@ -31,8 +31,6 @@ class HomeButton extends StatelessWidget {
             width: 60,
             height: 60,
             child: Icon(icon,color: Colors.white,size:30,),
-
-
           ),
           const SizedBox(height:10),
           Text(text, style: const TextStyle(color: Colors.grey))
